@@ -1,3 +1,6 @@
 amazon:
   username: your_email@example.com
   password: your_password123
+orangeHrm:
+  username: Admin
+  password: admin123
