@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.env/
+.venv/
+venv/
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+
+# Pytest cache and test artifacts
+.cache/
+.pytest_cache/
+htmlcov/
+reports/
+screenshots/
+
+# Logs
+logs/
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Python egg metadata
+*.egg-info/
+*.egg
+
+# Distribution
+dist/
+build/
+
+# GitHub Actions runtime
+*.zip
